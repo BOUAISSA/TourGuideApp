@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa3747f3d9ff9cd85eb2b23718eb02b811198f85">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81c343c24a7ea9db180f0dbf645d9c3e839f464d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_5276db5144a484be99acfbda41ddd6ec0d5f6683/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_0995be31a1ac87d563558cdff74d336151d6d40a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_2a274ad8fe28a0906fafee9705fec31549e871cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_41d955c4ede3f529f1dd8f835cf7d1e3bc2806ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f03438bef150eb315550c5af78092cd525657e3b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_42053856a583b006fcf5d8da1c385d40b1eb727c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_c7188da872abb1a0c2970de04b6ac54e29daf0a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88d7050eb36e501c9ebc5bf6071b7808c7ad7665">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_acd36b3ea6c641d332aa75a6330b7724f0c9d00c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/macbookpro/Desktop/Tourguideapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_fd02b29303404fa1a69a9ad75126e8b02221d3bc/classes.dex" />
+    </item>
+
+</items>
